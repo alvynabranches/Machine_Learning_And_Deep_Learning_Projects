@@ -1,1 +1,3 @@
-data/
+**/credit_card_dataset/data/
+**/flicker_image_dataset/data/
+**/master_dataset/data/
